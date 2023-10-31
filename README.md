@@ -30,7 +30,7 @@ To embed the sequence, use `encode.py`, which input sequences and trained model 
 Run:
 
 ```
-python vae/scripts/encoder.py  data/raw_data/datasetA_IGFBP3_P6.csv \
+python vae/scripts/encode.py  data/raw_data/datasetA_IGFBP3_P6.csv \
                                vae/out/trained_vae/datasetA_IGFBP3_P6_vae.mdl                 
 ```
 
